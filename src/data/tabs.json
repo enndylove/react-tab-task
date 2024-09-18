@@ -1,0 +1,54 @@
+[
+  {
+    "icon": "fi-rs-apps",
+    "name": "Dashboard"
+  },
+  {
+    "icon": "fi-rs-bank",
+    "name": "Banking"
+  },
+  {
+    "icon": "fi-rs-phone-call",
+    "name": "Telefonie"
+  },
+  {
+    "icon": "fi-rs-user-add",
+    "name": "Accounting"
+  },
+  {
+    "icon": "fi-rs-shop",
+    "name": "Verkauf"
+  },
+  {
+    "icon": "fi-rs-chart-pie",
+    "name": "Statistik"
+  },
+  {
+    "icon": "fi-rs-bank",
+    "name": "Post Office"
+  },
+  {
+    "icon": "fi-rs-settings",
+    "name": "Administration"
+  },
+  {
+    "icon": "fi-rs-book-alt",
+    "name": "Help"
+  },
+  {
+    "icon": "fi-rs-cube",
+    "name": "Warenbestand"
+  },
+  {
+    "icon": "fi-rs-list",
+    "name": "Auswahllisten"
+  },
+  {
+    "icon": "fi-rs-shopping-cart-check",
+    "name": "Einkauf"
+  },
+  {
+    "icon": "fi-rs-browser",
+    "name": "Rechn"
+  }
+]
